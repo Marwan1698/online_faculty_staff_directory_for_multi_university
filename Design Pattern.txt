@@ -1,0 +1,2 @@
+-Usnig a singleton design pattern in the database connection class to avoid making the connection several times in several functions or classes
+-And to ensure making only one initailizatoin to the instance of the class
